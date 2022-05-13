@@ -7,3 +7,5 @@
 
 Straight from the guide
 this is *really* **important**
+
+Now checking the pycharm capabilities 
